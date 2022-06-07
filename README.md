@@ -7,7 +7,7 @@
 
 # KlvInspector
 
-**KlvInspector** video and telemetry processing tool for metadata insertion into FMV (Full Motion Video).  
+**KlvInspector** is a software application for deep analysis of STANAG 4609 files or binary telemetry files / streams.
 More [info](https://impleotv.com/products/applications/klvinspector).
 
 ## System Requirements
@@ -30,16 +30,16 @@ VC++ runtime (2010 and 2013, 32 bit) must be present on your PC (so the applicat
     Click Download and select **vcredist_x86.exe** and run the installer
 
 **KlvInspector** can be downloaded as a **zip** file that contains installer.  
-Unzip the **SetupKlvInjector.zip** file and run the **SetupKlvInjector.exe**  
+Unzip the **KlvInspectorSetup.zip** file and run the **setup** that will install both **KlvInspector** and the **StMonitor**
 
 ## Download link
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **KlvInspector** |  v3.8.9 | [SetupKlvInjector.zip](https://github.com/impleotv/klvinjector-release/releases/latest/download/SetupKlvInjector.zip) | 
+| **KlvInspector** |  v1.0.0.63 | [KlvInspectorSetup.zip](https://github.com/impleotv/klvinspector-release/releases/latest/download/KlvInspectorSetup.zip) | 
 
 
-Run **setup** that will install both **KlvInspector** and the **StMonitor**
+
 
 ## License
 
